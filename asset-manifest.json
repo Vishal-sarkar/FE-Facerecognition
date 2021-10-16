@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Vishal-sarkar/FE-Facerecognition/static/css/main.395df2d5.chunk.css",
+    "main.js": "/Vishal-sarkar/FE-Facerecognition/static/js/main.e6a93886.chunk.js",
+    "main.js.map": "/Vishal-sarkar/FE-Facerecognition/static/js/main.e6a93886.chunk.js.map",
+    "runtime-main.js": "/Vishal-sarkar/FE-Facerecognition/static/js/runtime-main.1a49cdce.js",
+    "runtime-main.js.map": "/Vishal-sarkar/FE-Facerecognition/static/js/runtime-main.1a49cdce.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/Vishal-sarkar/FE-Facerecognition/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.2b102fa9.chunk.js": "/Vishal-sarkar/FE-Facerecognition/static/js/2.2b102fa9.chunk.js",
+    "static/js/2.2b102fa9.chunk.js.map": "/Vishal-sarkar/FE-Facerecognition/static/js/2.2b102fa9.chunk.js.map",
+    "static/js/3.f7367700.chunk.js": "/Vishal-sarkar/FE-Facerecognition/static/js/3.f7367700.chunk.js",
+    "static/js/3.f7367700.chunk.js.map": "/Vishal-sarkar/FE-Facerecognition/static/js/3.f7367700.chunk.js.map",
+    "index.html": "/Vishal-sarkar/FE-Facerecognition/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/Vishal-sarkar/FE-Facerecognition/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.395df2d5.chunk.css.map": "/Vishal-sarkar/FE-Facerecognition/static/css/main.395df2d5.chunk.css.map",
+    "static/js/2.2b102fa9.chunk.js.LICENSE.txt": "/Vishal-sarkar/FE-Facerecognition/static/js/2.2b102fa9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a49cdce.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.2b102fa9.chunk.js",
+    "static/css/main.395df2d5.chunk.css",
+    "static/js/main.e6a93886.chunk.js"
+  ]
+}
